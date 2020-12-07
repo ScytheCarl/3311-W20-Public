@@ -1,5 +1,10 @@
-# 3311-W20-Public
+# E-Commerce Systems
 
-Public Material for [EECS3311-W20](https://wiki.eecs.yorku.ca/course_archive/2019-20/W/3311/start) students. 
+How to run it
 
-* Lab0: Introduction to design using a minimal snooker table. Study together with [Eiffel-101](https://www.eecs.yorku.ca/~eiffel/pdf/Eiffel-101.pdf).
+* import the E-Commerce System.war
+* Or you can go to the cloud link where we deploy the website: http://bookstore2020.mybluemix.net/
+
+How to test it
+* import the test.war
+* run test.java
